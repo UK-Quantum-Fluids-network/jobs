@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Dr Davide Proment gives a webinar on 'Direct energy cascade in the two-dimensional Gross-Pitaesvkii model' (4pm UK time)"
+date:   2021-02-09
+categories: webinar
+---
+Dr Davide Proment (University of East Anglia) gives a webinar on "Direct energy cascade in the two-dimensional Gross-Pitaesvkii model" at 4pm UK time.
+The abstract is below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ti7RAIDN7Bw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+We analyse the nonlinear wave interactions and energy transfer in the two dimensional Gross-Pitaevskii equation (defocusing nonlinear Schroedinger equation in two spatial dimensions) using the wave turbulence (WT) framework. According to the WT theory applied to the Gross-Pitaevskii equation, both the direct energy and inverse wave-action cascades are pathological and cannot take place in two spatial dimensions. However, in the presence of a strong condensate, the dynamics changes switching from a 4-wave nonlinear interaction to a 3-wave one. In this regime, known as the Bogoliubov regime, the standard WT theory can still be applied: energy is the only conserved quantity and a direct energy cascade is expected. 
+
+After giving an introduction of the Gross-Pitaevskii equation used to model Bose-Einstein condensates and of the WT theory, I will present numerical results showing the existence of a direct energy cascade in this system. I will compare the numerical data with the theoretical WT predictions and discuss a possible experimental realisation of this numerical experiment.
+
+(joint work with U. Giuriato, J.C. Garreau, S. Nazarenko, and M. Onorato)
+
