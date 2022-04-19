@@ -11,5 +11,9 @@ layout: home
    </a>
  </figure>
  <br>
-<font size="+2">Welcome to the UK Quantum Fluids Network job opportunities website! UK Quantum Fluids Webinars </font>
+<font size="+2">Welcome to the UK Quantum Fluids Network job opportunities website! <br>
+   
+<a href="https://uk-quantum-fluids-network.github.io/webinars/">UK Quantum Fluids Webinars</a>
+
+   UK Quantum Fluids Webinars </font>
 <br>
