@@ -33,7 +33,7 @@ url: "https://uk-quantum-fluids-network.github.io" # the base hostname & protoco
 #facebook_username:
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 future: true
 plugins:
   - jekyll-feed
