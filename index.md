@@ -10,10 +10,9 @@ layout: home
       alt="IOP Low Temp logo" />
    </a>
  </figure>
- <a href="https://uk-quantum-fluids-network.github.io/webinars/">          UK Quantum Fluids Webinars</a>
+ <a href="https://uk-quantum-fluids-network.github.io/webinars/">   <font size="+2">       UK Quantum Fluids Webinars</a> </font>
  <br>
-<font size="+2">Welcome to the UK Quantum Fluids Network job opportunities website! <br>
-   
+<font size="+2">Welcome to the UK Quantum Fluids Network job opportunities website! <br> 
 
  </font>
 <br>
