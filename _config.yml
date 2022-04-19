@@ -18,22 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UK Quantum Fluids network - jobs
+title: UK Quantum Fluids network - webinars
 email: d.proment@uea.ac.uk s.autti@lancaster.ac.uk andrew.baggaley@newcastle.ac.uk d.zmeev@lancaster.ac.uk kali.wilson@strath.ac.uk
 #email: andrew.baggaley@newcastle.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the UK Quantum Fluids network job opportunities webpage.
-  You can find here news about job opportunities in UK Quantum Fluids research.
+  Welcome to the UK Quantum Fluids network webinar series webpage.
+  You can find here news about webinars, events, and activities.
   Please contact the organisers for inquiries. 
-baseurl: "/jobs/" # the subpath of your site, e.g. /blog
+baseurl: "/webinars/" # the subpath of your site, e.g. /blog
 url: "https://uk-quantum-fluids-network.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
-#github_username:  sautti
+#github_username:  davideproment
 #instagram_username:
 #facebook_username:
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 future: true
 plugins:
   - jekyll-feed
