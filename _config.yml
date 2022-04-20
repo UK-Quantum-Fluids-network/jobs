@@ -22,7 +22,6 @@ title: UK Quantum Fluids network - jobs
 email: d.proment@uea.ac.uk s.autti@lancaster.ac.uk andrew.baggaley@newcastle.ac.uk d.zmeev@lancaster.ac.uk kali.wilson@strath.ac.uk
 #email: andrew.baggaley@newcastle.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the UK Quantum Fluids network job opportunities webpage.
   This website contains job adverts endorsed by the UK Quantum Fluids Network. Both work opportunities located in the UK, and those relevant to UK researchers can be listed.
   Please contact the organisers if you wish to advertise a position here. 
 baseurl: "/jobs/" # the subpath of your site, e.g. /blog
