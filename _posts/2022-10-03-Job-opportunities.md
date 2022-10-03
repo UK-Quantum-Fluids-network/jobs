@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "QF job opportunities webpage"
-date:   2022-04-19
+date:   2022-10-03
 categories: webinar
 ---
 
