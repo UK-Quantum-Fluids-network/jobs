@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UK Quantum Fluids network - jobs
+title: UK Quantum Fluids network - jobs and PhD opportunities
 email: d.proment@uea.ac.uk s.autti@lancaster.ac.uk andrew.baggaley@newcastle.ac.uk d.zmeev@lancaster.ac.uk kali.wilson@strath.ac.uk
 #email: andrew.baggaley@newcastle.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
